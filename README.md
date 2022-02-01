@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DashKazak, a beginner software developer and a data analyst. I work as an IT professional. 
-- 👀 I’m interested in data analytics, Python, blockchain technologies and software development. 
+- 👋 Hi, I’m @DashKazak, a software developer and a data analyst. I work as an IT professional. 
+- 👀 I’m interested in we development and data analytic. 
 - 🌱 I’m currently learning Python programming and data analytics with Jupyter Notebook as well as JavaScript with Node.js and Vue. 
-- 💞️ I’m looking to collaborate on Python projects mostly. 
+
 
 
 <!---
