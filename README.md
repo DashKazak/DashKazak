@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DashKazak, a software developer and a data analyst. I work as an IT professional. 
-- 👀 I’m interested in we development and data analytic. 
+- 👀 I’m interested in we development and data analytics. 
 - 🌱 I’m currently learning Python programming and data analytics with Jupyter Notebook as well as JavaScript with Node.js and Vue. 
 
 
